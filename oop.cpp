@@ -21,7 +21,14 @@ class matakuliah {
     
     public:
     void input(){
-        
+        cout << "kode mk" << endl;
+        cin >> kodemk ;
+        cout << "nama mk" << endl;
+        cin >> namamk ;
+        cout << "SKS" << endl;
+        cin >>sks;
+
+    }
 
     }
 }
