@@ -30,6 +30,10 @@ class matakuliah {
 
     }
 
+    void output(){
+        
+    }
+
     }
 }
 
